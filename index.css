@@ -1,0 +1,24 @@
+
+img 
+{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#main_text
+{
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+    font-family: "Arial";
+}
+
+#main_text p
+{
+	margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+    padding-bottom: 70px;
+}
